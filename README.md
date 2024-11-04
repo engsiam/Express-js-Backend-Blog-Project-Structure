@@ -1,7 +1,3 @@
-Here's the updated README with your project name included:
-
----
-
 # Express-js-Backend-Blog-Project-Structure
 
 A simple Express.js backend blog project structure for managing blog posts. This project includes routes for creating, reading, updating, and deleting blog posts, with each route returning a success message.
